@@ -1,5 +1,9 @@
 console.log("Hello Shubham");
 function test() {
-    console.log("Test push");
+    count =2;
+    console.log("Test push count:",count);
+    conts = "This is for test" 
+    console.log(conts)
+
 }
 test()
